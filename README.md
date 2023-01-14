@@ -9,5 +9,5 @@ This app is basic single activity layout with static greetings image
 
 ## Demonstration
 <p align="center">
-<img src="birthdaycard.png" alt="Birthday Card App Demo" title="How Birthday Card App Works">
+<img src="birthdaycard.jpg" width="600" alt="Birthday Card App Demo" title="How Birthday Card App Works">
 </p>
